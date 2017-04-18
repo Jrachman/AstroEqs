@@ -1,6 +1,6 @@
 # AstroEqs
 
-Astronomy Super Computing Software
+Astronomy Computing Software
 
 April 10, 2017
 
